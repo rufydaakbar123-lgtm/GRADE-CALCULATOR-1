@@ -1,0 +1,19 @@
+Calculator Application Links
+=============================
+
+Local Development URLs:
+----------------------
+- Portal (Light Mode): http://127.0.0.1:8000/portal
+- Portal (Dark Mode): http://127.0.0.1:8000/portal-dark
+- Grade Calculator: http://127.0.0.1:8000/
+- Basic Calculator: http://127.0.0.1:8000/basic
+
+Network URLs (if accessible from other devices):
+------------------------------------------------
+- Portal (Light Mode): http://192.168.1.4:8000/portal
+- Portal (Dark Mode): http://192.168.1.4:8000/portal-dark
+- Grade Calculator: http://192.168.1.4:8000/
+- Basic Calculator: http://192.168.1.4:8000/basic
+
+Note: To run the application, execute: python app.py
+The server runs on port 8000 by default.
